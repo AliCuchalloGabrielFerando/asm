@@ -13,6 +13,7 @@
 ;convertir los elementos de un arreglo de minuscula a mayuscula y de mayuscula
 ;arreglo dw 'x','a','M','E','o',0
 ;arreglo dw 'X','A','m',e','O',0
+;yaa
 extern printf, scanf		
 
 segment .data
